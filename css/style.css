@@ -11,7 +11,7 @@
     color:white;
 }
 body{
-    background: url(../images/background2.jpg) no-repeat center center fixed;
+    background: url(../images/backgroundthree.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size:cover;
@@ -87,7 +87,7 @@ body{
     
 }
 .intro {
-    margin: -565px 0 0 277px;
+    margin: -528px 0 0 277px;
     text-align: center;
 }
 .intro > img{
